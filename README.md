@@ -3,7 +3,8 @@
 Software Developer @ TCS
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <!-- - 🔭 Here's my [portfolio](https://link)   -->                                              
-- 🌱 I’m currently learning AI & ML.
+- 🧠 Currently Exploring:<br/>
+AI & Machine Learning, Python-based ML frameworks, and integrating intelligent features into applications.
 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s-silambarasan/)
